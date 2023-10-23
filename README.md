@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on whyphi project
-- 🌱 I’m currently learning programming fundamentals
-- 💬 Ask me about NLP
+- 🔭 I’m currently interested in AI/ML, NLP, and Linguistics
+- 🌱 I’m currently learning Web development and Computational Linguistics
+- 💬 Ask me about Computational Linguistics
 - 📫 How to reach me: minjo@bu.edu
-- ⚡ Fun fact: Korean Baseball Fan!! ૮₍๐•ᴗ•๐₎ა
