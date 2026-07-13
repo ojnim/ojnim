@@ -1,6 +1,6 @@
 ### Hi, I'm Seungmin(Min) Cho 👋
 
-I’m a senior at Boston University studying Computer Science and minoring in Linguistics. I'm looking for post-bacc/pre-doc research position at the intersection of AI/ML & Linguistics & Neuroscience.
+I’m a research technician at Language, Intelligence & Though Lab working with Prof. Anna Ivanova at Georgia Tech. Previously, I studied Computer Science with minor in Linguistics.
 
-Contact: minjo@bu.edu
+Contact: -
 Personal Website: https://ojnim.github.io/
